@@ -28,6 +28,7 @@
         "sensordriver.ts",
         "actuator.ts",
         "controllerclient.ts",
+        "controllerservice.ts",
         "messagebus.ts",
         "ns.ts",
         "nameservice.ts",
